@@ -133,7 +133,7 @@
                         items-center
                         leading-5
                         space-x-5
-                        overflow-scroll
+                        overflow-auto
                     "
                 >
                     <a
